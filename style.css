@@ -18,7 +18,7 @@ header{
     color: rgb(78,160,255);
 }
 
-.subtitle{
+.grey-text{
     color: grey;
 }
 
@@ -46,4 +46,18 @@ ul{
 
 .container{
     background-color: rgb(78,160,255);
+}
+
+.footer-text{
+    color: grey;
+    font-size: 20px;
+}
+
+.footer-pics{
+    display: block;
+    padding-top: 10px;
+}
+
+.containfoot{
+    position: relative;
 }
