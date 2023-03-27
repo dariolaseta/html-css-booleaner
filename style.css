@@ -53,7 +53,24 @@ ul{
     font-size: 20px;
 }
 
-.footer-pics{
-    display: block;
-    padding-top: 10px;
+.table-text{
+    color: white;
+    padding-left:0;
+    padding-right: 400px;
+}
+
+.footer-image-1{
+    background: url(img/monitor.jpg);
+    height: 200px;
+    width: 270px;
+    color: white;
+    font-size: 20px;
+}
+
+.footer-image-2{
+    background: url(img/graph.jpg);
+    height: 200px;
+    width: 270px;
+    color: white;
+    font-size: 20px;
 }
