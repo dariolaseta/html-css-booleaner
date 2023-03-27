@@ -30,3 +30,16 @@ header{
     margin-top: 0;
     display: block;
 }
+
+.lorem{
+    font-size: 20px;
+}
+
+.test2{
+    background-color: #FFFF00;
+}
+
+ul{
+    padding-left: 15px;
+    font-size: 20px;
+}
