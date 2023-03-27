@@ -8,3 +8,25 @@ header{
     width: 300px;
     padding-top: 100px;
 }
+
+.title{
+    font-size: 50px;
+    display: block;
+}
+
+.booleaner{
+    color: rgb(78,160,255);
+}
+
+.subtitle{
+    color: grey;
+}
+
+.image{
+    padding-top: 30px;
+}
+
+.test{
+    margin-top: 0;
+    display: block;
+}
