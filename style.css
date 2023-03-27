@@ -44,19 +44,32 @@ ul{
     font-size: 20px;
 }
 
-.container{
+td{
+    padding-left: 0;
+    padding-right: 150px;
+}
+
+.header-table{
+    color: white;
     background-color: rgb(78,160,255);
+}
+
+.table-section{
+    background-color: rgba(177,229,242);
+    height: 50px;
+}
+
+.white-table-section{
+    height: 50px;
+}
+
+table{
+    border-collapse: collapse;
 }
 
 .footer-text{
     color: grey;
     font-size: 20px;
-}
-
-.table-text{
-    color: white;
-    padding-left:0;
-    padding-right: 400px;
 }
 
 .footer-image-1{
