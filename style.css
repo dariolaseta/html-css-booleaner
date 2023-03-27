@@ -44,23 +44,24 @@ ul{
     font-size: 20px;
 }
 
-td{
-    padding-left: 0;
-    padding-right: 150px;
-}
-
 .header-table{
     color: white;
+    height: 1%;
     background-color: rgb(78,160,255);
 }
 
 .table-section{
     background-color: rgba(177,229,242);
     height: 50px;
+    width: 50%;
 }
 
 .white-table-section{
     height: 50px;
+}
+
+td{
+    width: 30%;
 }
 
 table{
