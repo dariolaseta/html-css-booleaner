@@ -9,9 +9,12 @@ header{
     padding-top: 100px;
 }
 
-.title{
+h1{
     font-size: 50px;
-    display: block;
+}
+
+.text-smaller{
+    font-size: .75rem;
 }
 
 .booleaner{
@@ -22,69 +25,38 @@ header{
     color: grey;
 }
 
-.tim-image{
-    padding-top: 30px;
-}
-
-.tim-photo-text{
-    margin-top: 0;
-    display: block;
-}
-
-.lorem{
-    font-size: 20px;
-}
-
-.highlighted-text{
-    background-color: #FFFF00;
-}
-
-ul{
-    padding-left: 15px;
-    font-size: 20px;
-}
-
 .header-table{
     color: white;
-    height: 1%;
     background-color: rgb(78,160,255);
 }
 
 .table-section{
     background-color: rgba(177,229,242);
-    height: 50px;
+}
+
+.width-50{
     width: 50%;
 }
 
-.white-table-section{
-    height: 50px;
-}
-
-td{
-    width: 30%;
+thead{
+    text-align: left;
 }
 
 table{
     border-collapse: collapse;
 }
 
-.footer-text{
-    color: grey;
-    font-size: 20px;
+.box{
+    height: 200px;
+    width: 350px;
+    color: white;
+    font-size: 1.5rem;
 }
 
-.footer-image-1{
-    background: url(img/monitor.jpg);
-    height: 200px;
-    width: 270px;
-    color: white;
-    font-size: 20px;
+.box-monitor{
+    background-image: url(img/monitor.jpg);
 }
 
-.footer-image-2{
-    background: url(img/graph.jpg);
-    height: 200px;
-    width: 270px;
-    color: white;
-    font-size: 20px;
+.box-graph{
+    background-image: url(img/graph.jpg);
 }
